@@ -8,4 +8,4 @@ To view Tablue dashbards,
 
 2- click the Visualizing the Flight Delays and Cancellations Dataset.ipynb
 
-3- click the first cell, then click ##run 
+3- click the first cell, then click run 
