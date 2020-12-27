@@ -3,5 +3,5 @@ This project is an interactive dashboard using Tableau to discover and communica
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anood3n/Building-Data-Dashboards/Visualizing the Flight Delays and Cancellations Dataset.ipynb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anood3n/Building-Data-Dashboards/Visualizing%20the%20Flight%20Delays%20and%20Cancellations%20Dataset.ipynb/master)
 
